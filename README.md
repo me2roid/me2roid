@@ -1,6 +1,4 @@
-<h2 align="left">Hi My name is mehrshad and I'm a 21, from no .. where </h2> </br> <h2>
-Hallo! Ich heiße Mehrshad
-here is my GITHUB </h2>
+<h2 align="center">Hi My name is mehrshad and I'm a 21, from the GIT </h2>
 
 ###
 
